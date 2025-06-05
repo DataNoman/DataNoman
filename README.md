@@ -1,19 +1,18 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 About Me:
+👋 Hello there! I'm Noman Alam, a highly motivated 🎓 BSc Data Science student at United International University (UIU). My core passion? Transforming raw data 📊 into powerful, actionable insights ✨.<br><br>🚀 I'm deeply immersed in the world of data, proficient in Python 🐍, statistical analysis 📈, and machine learning 🤖. Beyond academics, I'm gaining practical, hands-on experience as an Intern and Course Facilitator at Nobelnavigators 🧑‍🏫. This dual role allows me to apply cutting-edge data science techniques to solve real-world problems 🌍 while also empowering others by teaching key concepts – effectively bridging the gap between intricate theory 🧠 and tangible practice 🛠️.<br><br>My expertise toolkit 🧰 includes:<br>🔍 Data Cleaning & Preprocessing<br>🎨 Data Visualization<br>🧠 Predictive Modeling<br>🗣️ Uncovering trends and communicating findings with clarity and impact.<br><br>Whether I'm diving into complex projects 🧩 or mentoring peers 🤝, my focus is always on simplicity and delivering impactful results. I believe in making data-driven solutions both practical and accessible to all 💡.<br><br>🌱 My ambition is to continually refine my skills in advanced analytics, sophisticated machine learning algorithms, and effective technical instruction, shaping myself into a truly well-rounded data professional 🌟.<br><br>🤝 I'm enthusiastic about collaborating on meaningful projects and contributing to the vibrant data science community 🌐. If you're looking for a dedicated and skilled data enthusiast, let's connect and explore how we can innovate together! 🚀<br><br>You can ask me about: Python for Data Science, Statistical Modelling, Machine Learning Concepts, Data Visualization techniques, or my experiences in applying data science in practical settings! 💬
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=datanoman&label=Profile%20views&color=0e75b6&style=flat" alt="datanoman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=datanoman" alt="datanoman" /></a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomanalam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25194780) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mrnoman01) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mrnoman01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrnoman01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nomanalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nomanalam" height="30" width="40" /></a>
-<a href="https://kaggle.com/nomanalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nomanalam" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DataNoman&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DataNoman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DataNoman&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=datanoman&show_icons=true&locale=en&layout=compact" alt="datanoman" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=DataNoman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=datanoman&show_icons=true&locale=en" alt="datanoman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datanoman&" alt="datanoman" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
